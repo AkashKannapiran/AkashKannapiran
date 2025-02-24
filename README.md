@@ -38,10 +38,12 @@ Connect with me:
 </h3>
 
 <p align="left">
-<a href="https://linkedin.com/in/akashkannapiran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akashkannapiran" height="30" width="40" /></a>
-<a href="https://instagram.com/akashkannapiran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akashkannapiran" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/akashkannapiran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akashkannapiran" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/akashkannapiran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="akashkannapiran" height="30" width="40" /></a>
+<a href="https://akash-kannapiran.web.app" target="_blank"><img align="center" src="https://www.svgrepo.com/show/267862/portfolio.svg" alt="akashkannapiran" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/akashkannapiran" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akashkannapiran" height="30" width="40" /></a>
+<a href="https://medium.com/@akashkannapiran" target="_blank"><img align="center" src="https://img.icons8.com/?size=100&id=kXpTR7n8QCEP&format=png&color=000000" alt="akashkannapiran" height="30" width="40" /></a>
+<a href="https://instagram.com/akashkannapiran" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akashkannapiran" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/akashkannapiran" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akashkannapiran" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/akashkannapiran" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="akashkannapiran" height="30" width="40" /></a>
 </p>
 
 
